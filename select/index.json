@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Loose",
+  "base_artist": "Primer 55",
+  "createdAt": "2026-02-17T09:49:12.853739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cut Me Loose",
+      "artist": "The Shires",
+      "has_synced": false,
+      "path": "select/01_Cut_Me_Loose_The_Shires.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Every Which Way but Loose",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/02_Every_Which_Way_but_Loose_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Every Which Way but Loose (2009 Remaster)",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/03_Every_Which_Way_but_Loose_(2009_Remaster)_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Loose Talk",
+      "artist": "Carl Smith",
+      "has_synced": true,
+      "path": "select/04_Loose_Talk_Carl_Smith.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Turn It Loose",
+      "artist": "The Judds",
+      "has_synced": false,
+      "path": "select/05_Turn_It_Loose_The_Judds.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Turn It Loose",
+      "artist": "The Judds",
+      "has_synced": false,
+      "path": "select/06_Turn_It_Loose_The_Judds.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Turn It On, Turn It Up, Turn Me Loose",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/07_Turn_It_On,_Turn_It_Up,_Turn_Me_Loose_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Turn It On, Turn It Up, Turn Me Loose (Remastered Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/08_Turn_It_On,_Turn_It_Up,_Turn_Me_Loose_(Remastered_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Turn It On, Turn It Up, Turn Me Loose (Remastered LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/09_Turn_It_On,_Turn_It_Up,_Turn_Me_Loose_(Remastered_LP_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get Loose Now",
+      "artist": "The 2 Live Crew",
+      "has_synced": true,
+      "path": "select/10_Get_Loose_Now_The_2_Live_Crew.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Knot Comes Loose",
+      "artist": "My Morning Jacket",
+      "has_synced": false,
+      "path": "select/11_Knot_Comes_Loose_My_Morning_Jacket.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Loose Change",
+      "artist": "POP ETC",
+      "has_synced": true,
+      "path": "select/12_Loose_Change_POP_ETC.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Loose Change",
+      "artist": "The Morning Benders",
+      "has_synced": true,
+      "path": "select/13_Loose_Change_The_Morning_Benders.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Turn Me Loose",
+      "artist": "The Meditations",
+      "has_synced": true,
+      "path": "select/14_Turn_Me_Loose_The_Meditations.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Turn Me Loose",
+      "artist": "Meditations",
+      "has_synced": true,
+      "path": "select/15_Turn_Me_Loose_Meditations.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Loose Translation",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/16_Loose_Translation_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Loose",
+      "artist": "Primer 55",
+      "has_synced": false,
+      "path": "select/pl_01_Loose_Primer_55.txt"
+    }
+  ]
+}
